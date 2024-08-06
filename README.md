@@ -1,4 +1,4 @@
-# Network Design for Trading Floor Support Center
+# TripleTier Network Design
 
 ## Project Overview
 This project involves designing and implementing a robust, scalable network for a trading floor support center with 600 staff members. The new building, identified for expansion, has no existing network infrastructure. The goal is to create a network solution that ensures redundancy, security, and efficient communication across all departments. The network design and implementation will be done using Cisco Packet Tracer.
