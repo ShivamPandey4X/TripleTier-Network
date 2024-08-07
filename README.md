@@ -119,7 +119,7 @@ This project involves designing and implementing a robust, scalable network for 
 2. Verify connectivity, inter-VLAN routing, DHCP operation, OSPF routing, SSH access, port security, and PAT.
 
 ## Conclusion
-This network design ensures redundancy, scalability, and efficient communication across all departments. The use of Cisco Packet Tracer allows for simulation and verification of the network before actual implementation. By following the hierarchical model and implementing the specified configurations, the network will meet current business needs and be future-proofed for growth.
+This network design ensures redundancy, scalability, and efficient communication across all departments. The use of Cisco Packet Tracer allows for simulation and verification of the network before actual implementation. By following the hierarchical model and implementing the specified configurations, the network will meet current business needs and be future-proofed for growth!
 
 
 
