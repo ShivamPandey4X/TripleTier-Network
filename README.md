@@ -49,7 +49,7 @@ This project involves designing and implementing a robust, scalable network for 
 | ICT                                  | 50   | 172.16.50.0/24     | 120             |
 | Server Room                          | 60   | 172.16.60.0/28     | 12              |
 
-### Public IP Address Allocation
+## Public IP Address Allocation
 - ISP connections: 
   - `195.136.17.0/30`
   - `195.136.17.4/30`
