@@ -69,7 +69,7 @@ This project involves designing and implementing a robust, scalable network for 
 - PAT configuration for NAT overload
 - Standard and extended ACLs
 
-## Implementation Steps
+### Implementation Steps
 
 ### Step 1: Network Topology
 1. Create a network topology using Cisco Packet Tracer.
